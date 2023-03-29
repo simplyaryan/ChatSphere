@@ -1,2 +1,2 @@
 # ChatSphere
-Under development Chat app Will be implementing WebSocket support soon!
+Under development But a basic template is ready
